@@ -1,7 +1,7 @@
 import image
 class ImageService:
     def __init__(self):
-        self.foundImageDictionary = none
+        self.foundImageDictionary = None
 
     # GET
 
